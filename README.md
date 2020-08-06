@@ -1,2 +1,2 @@
-#Frontend Mentor Challenge
-###Article Preview Component
+# Frontend Mentor Challenge
+### Article Preview Component
