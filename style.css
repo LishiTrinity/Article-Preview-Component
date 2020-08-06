@@ -1,0 +1,34 @@
+.attribution { 
+    font-size: 11px; 
+    text-align: center;
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+body {  
+    display: grid;
+    place-items: center;
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    position: fixed;
+}
+
+img {
+    width: 100%;
+}
+
+section { 
+    height:auto; 
+    width: 60%; 
+    display: grid; 
+    grid-template-columns: 1fr 2fr;
+}
+
+article {
+    text-align: center; 
+    display: grid; 
+    place-items: center;
+}
